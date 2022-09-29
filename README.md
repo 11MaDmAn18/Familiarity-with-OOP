@@ -7,8 +7,9 @@
 - Результати виконання завдання:
     1. Створив два python файли: для Ноутбука з розширенням `.ipynb` та для скрипта з розширенням `.py`;
     2. Скопіював Python код наведений внизу у файли та виконав їх натиснувши `Run Python File` (трикутник :arrow_forward:); 
-![alt text] (https://github.com/11MaDmAn18/Familiarity-with-OOP/raw/main/The%20first%20program%20on%20OOP.png)
+![alt text] (https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/4068c3189c916ea8a4667ab9deb54e728ee38c86/The%20first%20program%20on%20OOP.png)
 ![alt text] (https://github.com/11MaDmAn18/Familiarity-with-OOP/raw/main/The%20first%20program%20on%20OOP2.png)
+
     1. :star: зробив скріншот та вставив у звіт; 
     
     1. ознайомився з кодом та зрозумів за що відповідає кожен з рядків;
