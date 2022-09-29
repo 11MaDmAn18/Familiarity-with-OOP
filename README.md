@@ -7,13 +7,11 @@
 - Результати виконання завдання:
     1. Створив два python файли: для Ноутбука з розширенням `.ipynb` та для скрипта з розширенням `.py`;
     2. Скопіював Python код наведений внизу у файли та виконав їх натиснувши `Run Python File` (трикутник :arrow_forward:); 
-![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP.jpg "ІТ Коледж")
-![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP2.jpg "ІТ Коледж")
-
-    1. :star: зробив скріншот та вставив у звіт; 
-    
-    1. ознайомився з кодом та зрозумів за що відповідає кожен з рядків;
-    1. Модифікував програму додавши своє імя в список;
+    3. :star: зробив скріншот та вставив у звіт; 
+    ![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP.jpg "ІТ Коледж")
+    4. ознайомився з кодом та зрозумів за що відповідає кожен з рядків;
+    5. Модифікував програму додавши своє імя в список;
+    ![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP2.jpg "ІТ Коледж")
     1. :star: дав відповідь на запитання: 
     - Чому коли передаємо значення `None` створюється обєкт з іменем `Anonymous`?
       
