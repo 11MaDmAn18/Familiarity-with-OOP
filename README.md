@@ -8,7 +8,7 @@
     1. Створив два python файли: для Ноутбука з розширенням `.ipynb` та для скрипта з розширенням `.py`;
     2. Скопіював Python код наведений внизу у файли та виконав їх натиснувши `Run Python File` (трикутник :arrow_forward:); 
 ![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP.jpg "ІТ Коледж")
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/11MaDmAn18/Familiarity-with-OOP/blob/main/The%20first%20program%20on%20OOP2.jpg "ІТ Коледж")
 
     1. :star: зробив скріншот та вставив у звіт; 
     
